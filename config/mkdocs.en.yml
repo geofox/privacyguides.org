@@ -86,6 +86,7 @@ nav:
     - Advanced Topics:
       - 'advanced/dns-overview.md'
       - 'advanced/tor-overview.md'
+      - 'advanced/payments.md'
       - 'advanced/communication-network-types.md'
     - kb-archive.md
   - Recommendations:
