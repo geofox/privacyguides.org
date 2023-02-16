@@ -90,8 +90,7 @@ Shields' options can be downgraded on a per-site basis as needed, but by default
 
 !!! recommendation
 
-    ![Vanadium logo](assets/img/browsers/vanadium.svg#only-light){ align=right }
-    ![Vanadium logo](assets/img/browsers/vanadium-dark.svg#only-dark){ align=right }
+    ![Vanadium logo](assets/img/browsers/vanadium.svg){ align=right }
 
     **Vanadium** is the default browser that is included with [GrapheneOS](../android.md#grapheneos), it includes a number of [patches](https://github.com/GrapheneOS/Vanadium/tree/main/patches) which assist in improving security and privacy of WebView.
 
