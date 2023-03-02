@@ -1,5 +1,5 @@
 ---
-title: Payment Methods
+title: Private Payments
 icon: material/hand-coin
 ---
 Making payments online while retaining your privacy is a difficult challenge. The traditional banking infrastructure is intentionally designed in an anti-privacy manner to enable banks, other companies, and governments to easily trace transactions for a variety of purposes. Many people online view cryptocurrencies as the solution to this problem, but there are still a significant number of privacy concerns with existing cryptocurrencies.
@@ -26,60 +26,23 @@ Cash remains the best option for in-person purchases for most people. Gift cards
 
 ### Online Marketplaces
 
-If you have cryptocurrency, you can purchase gift cards with an online gift card marketplace. Some of these services offer ID verification options for higher limits, but they also allow accounts with just an email address. Basic limits start at $5,000-10,000 a day for basic accounts, and significantly higher limits for ID verified accounts (if offered).
+If you have [cryptocurrency](../cryptocurrency.md), you can purchase gift cards with an online gift card marketplace. Some of these services offer ID verification options for higher limits, but they also allow accounts with just an email address. Basic limits start at $5,000-10,000 a day for basic accounts, and significantly higher limits for ID verified accounts (if offered).
 
-When buying gift cards online, there is usually a slight discount. Prepaid cards are usually sold online at face value or with a fee. If you buy prepaid cards and gift cards with cryptocurrencies, you should strongly prefer to pay with Monero which provides strong privacy, more on this below. Paying for a gift card with a traceable payment method negates the benefits a gift card can provide when purchased with cash or Monero. Some online gift card marketplaces which accept Monero include [Cake Pay](https://cakepay.com/) and [CoinCards](https://coincards.com/).
+When buying gift cards online, there is usually a slight discount. Prepaid cards are usually sold online at face value or with a fee. If you buy prepaid cards and gift cards with cryptocurrencies, you should strongly prefer to pay with Monero which provides strong privacy, more on this below. Paying for a gift card with a traceable payment method negates the benefits a gift card can provide when purchased with cash or Monero.
 
-## Payment Masking Services
+- [Online Gift Card Marketplaces :material-arrow-right-drop-circle:](../financial-services.md#gift-card-marketplaces)
 
-There are also a number of services which provide "virtual debit cards" which you can use with online merchants without revealing your actual banking or billing information in most cases. It's important to note that these financial services are **not** anonymous and are subject to "Know Your Customer" (KYC) laws and may require your ID or other identifying information. These services are primarily useful for protecting you from merchant data breaches, less sophisticated tracking or purchase correlation by marketing agencies, and online data theft; and **not** for making a purchase completely anonymously.
+## Virtual Cards
 
-Many banks and credit card providers offer native virtual card functionality. If you use one which provides this option already, you should use it over the following recommendations in most cases. That way you are not trusting multiple parties with your personal information.
+There are also a number of services which provide "virtual debit cards" which you can use with online merchants while masking your actual banking or billing information in most cases. It's important to note that these financial services are **not** anonymous and are subject to "Know Your Customer" (KYC) laws and may require your ID or other identifying information. These services are primarily useful for protecting you from merchant data breaches, less sophisticated tracking or purchase correlation by marketing agencies, and online data theft; and **not** for making a purchase completely anonymously.
 
-### Privacy.com (US, Free)
+- [Recommended Payment Masking Services :material-arrow-right-drop-circle:](../financial-services.md#payment-masking-services)
 
-!!! recommendation
-
-    **Privacy.com**'s free plan allows you to create up to 12 virtual cards per month, set spend limits on those cards, and shut off cards instantly.
-
-    [:octicons-home-16: Homepage](https://privacy.com){ .md-button .md-button--primary }
-    [:octicons-eye-16:](https://privacy.com/privacy-policy){ .card-link title="Privacy Policy" }
-    [:octicons-info-16:](https://support.privacy.com/hc/en-us){ .card-link title=Documentation}
-
-### MySudo (US, Paid)
-
-!!! recommendation
-
-    **MySudo** provides up to 9 virtual cards depending on the plan you purchase. Their paid plans additionally include functionality which may be useful for making purchases privately, such as virtual phone numbers and email addresses, although we typically recommend other [email aliasing providers](../email.md) for extensive email aliasing use.
-
-    [:octicons-home-16: Homepage](https://mysudo.com/){ .md-button .md-button--primary }
-    [:octicons-eye-16:](https://anonyome.com/privacy-policy/){ .card-link title="Privacy Policy" }
-    [:octicons-info-16:](https://support.mysudo.com/hc/en-us){ .card-link title=Documentation}
-
-### Revolut
-
-!!! recommendation
-
-    **Revolut** is an online bank which provides [single-use card functionality](https://www.revolut.com/cards/). In some locations this requires a paid plan.
-
-    [:octicons-home-16: Homepage](https://www.revolut.com/cards/){ .md-button .md-button--primary }
-    [:octicons-eye-16:](https://www.revolut.com/privacy-policy/){ .card-link title="Privacy Policy" }
-    [:octicons-info-16:](https://help.revolut.com/help){ .card-link title=Documentation}
-
-Revolut is [available](https://help.revolut.com/en-MT/help/profile-and-plan/profile-plan/verifying-identity/what-countries-are-supported) to legal residents of the European Economic Area (EEA), Australia, Singapore, Switzerland, Japan, the United Kingdom and the United States.
-
-### Criteria
-
-**Please note we are not affiliated with any of the projects we recommend.** In addition to [our standard criteria](../about/criteria.md), we have developed a clear set of requirements to allow us to provide objective recommendations. We suggest you familiarize yourself with this list before choosing to use a project, and conduct your own research to ensure it's the right choice for you.
-
-!!! example "This section is new"
-
-    We are working on establishing defined criteria for every section of our site, and this may be subject to change. If you have any questions about our criteria, please [ask on our forum](https://discuss.privacyguides.net/latest) and don't assume we didn't consider something when making our recommendations if it is not listed here. There are many factors considered and discussed when we recommend a project, and documenting every single one is a work-in-progress.
-
-- Allows the creation of multiple cards which function as a shield between the merchant and your personal finances.
-- Cards must not require you to provide accurate billing address information to the merchant.
+These tend to be good options for recurring/subscription payments online, while prepaid gift cards are preferred for one-time transactions.
 
 ## Cryptocurrency
+
+Cryptocurrencies are a digital form of currency designed to work without central authorities such as a government or bank. While *some* cryptocurrency projects can allow you to make private transactions online, many use a public blockchain which does not provide any transaction privacy. Cryptocurrencies also tend to be very volatile assets, meaning their value can change rapidly and significantly at any time. As such, we generally don't recommend using cryptocurrency as a long-term store of value. If you decide to use cryptocurrency online, make sure you have a full understanding of its privacy aspects beforehand, and only invest amounts which would not be disastrous to lose.
 
 !!! danger
 
@@ -87,44 +50,27 @@ Revolut is [available](https://help.revolut.com/en-MT/help/profile-and-plan/prof
 
     Additionally, many if not most cryptocurrencies are scams. Make transactions carefully with only projects you trust.
 
-### Monero
+### Privacy Coins
 
-![Monero logo](../assets/img/payments/monero.svg){ align=right }
+There are a number of cryptocurrency projects which purport to provide privacy by making transactions anonymous. We recommend using one which provides transaction anonymity **by default** to avoid operational errors.
 
-**Monero** uses a blockchain with privacy-enhancing technologies that obfuscate transactions to achieve anonymity. Every Monero transaction hides the transaction amount, sending and receiving addresses, and source of funds without any hoops to jump through, making it an ideal choice for cryptocurrency novices. Outside observers cannot decipher addresses trading Monero, transaction amounts, address balances, or transaction histories.
+- [Recommended Cryptocurrency :material-arrow-right-drop-circle:](../cryptocurrency.md#coins)
 
-[:octicons-home-16:](https://www.getmonero.org/){ .card-link title=Homepage }
-[:octicons-info-16:](https://www.getmonero.org/resources/user-guides/){ .card-link title=Documentation}
-[:octicons-code-16:](https://github.com/monero-project/monero){ .card-link title="Source Code" }
-[:octicons-heart-16:](https://www.getmonero.org/get-started/contributing/){ .card-link title=Contribute }
+Privacy coins have been subject to increasing scrutiny by government agencies. In 2020, [the IRS published a $625,000 bounty](https://www.forbes.com/sites/kellyphillipserb/2020/09/14/irs-will-pay-up-to-625000-if-you-can-crack-monero-other-privacy-coins/?sh=2e9808a085cc) for tools which can break Bitcoin Lightning Network and/or Monero's transaction privacy. They ultimately [paid two companies](https://sam.gov/opp/5ab94eae1a8d422e88945b64181c6018/view) (Chainalysis and Integra Fec) a combined $1.25 million for tools which purport to do so (it is unknown which cryptocurrency network these tools target). Due to the secrecy surrounding tools like these, ==none of these methods of tracing cryptocurrencies have been independently confirmed.== Generally speaking however, tools which assist targeted investigations into private coin transactions almost certainly exist, even if privacy coins successfully thwart mass surveillance.
 
-For optimal privacy, make sure to use a noncustodial wallet where the view key stays on the device. This means that only you will have the ability to spend your funds and see incoming and outgoing transactions. If you use a custodial wallet, the provider can see **everything** you do; if you use a “lightweight” wallet where the provider retains your private view key, the provider can see almost everything you do.
+### Other Coins (Bitcoin, Ethereum, etc.)
 
-For maximum privacy (even with a noncustodial wallet), you should run your own Monero node. Using another person’s node will expose some information to them, such as the IP address that you connect to it from, the timestamps that you sync your wallet, and the transactions that you send from your wallet (though no other details about those transactions). Alternatively, you can connect to someone else’s Monero node over Tor or i2p.
+The vast majority of cryptocurrency projects use a public blockchain, meaning that all transactions are both easily traceable and permanent. As such, we strongly discourage the use of most cryptocurrency for privacy-related reasons.
 
-#### Privacy Concerns
+Anonymous transactions on a public blockchain are *theoretically* possible, and the Bitcoin wiki [gives one example of a "completely anonymous" transaction](https://en.bitcoin.it/wiki/Privacy#Example_-_A_perfectly_private_donation). However, doing so requires a complicated setup involving Tor and "solo-mining" a block to generate completely independent cryptocurrency, a practice which has not been practical for nearly any enthusiast for many years.
 
-In August 2021, CipherTrace [announced](https://finance.yahoo.com/news/ciphertrace-announces-enhanced-monero-tracing-160000275.html) enhanced Monero tracing capabilities for government agencies. Public postings show that the US Department of the Treasury's Financial Crimes Enforcement Network [licensed](https://sam.gov/opp/d12cbe9afbb94ca68006d0f006d355ac/view) CipherTrace's "Monero Module" in late 2022.
+==Your best option is to avoid these cryptocurrencies entirely and stick with one which provides privacy by default.== Attempting to use other cryptocurrency is outside the scope of this site and strongly discouraged.
 
-Monero transaction graph privacy is limited by its relatively small ring signatures, especially against targeted attacks. Monero's privacy features have also been [called into question](https://web.archive.org/web/20180331203053/https://www.wired.com/story/monero-privacy/) by some security researchers, and a number of severe vulnerabilities have been found and patched in the past, so the claims made by organizations like CipherTrace are not out of the question. While it's unlikely that Monero mass surveillance tools exist like they do for Bitcoin and others, it's certain that tracing tools assist with targeted investigations.
+### Acquisition
 
-Ultimately, Monero is the strongest contender for a privacy-friendly cryptocurrency, but its privacy claims have **not** been definitively proven one way or the other. More time and research is needed to assess whether Monero is resilient enough to attacks to always provide adequate privacy.
-
-#### Acquisition
-
-Acquiring Monero privately can be difficult. [LocalMonero](https://localmonero.co/), a platform which facilitates trades between people, is one option that can be used. If using an exchange which requires KYC is an acceptable risk for you as long as subsequent transactions can't be traced, a much easier option is to purchase Monero on an exchange like [Kraken](https://kraken.com/), or purchase Bitcoin/Litecoin from a KYC exchange which can then be swapped for Monero. Then, you can withdraw the purchased Monero to your own noncustodial wallet to use privately from that point forward.
+Acquiring [cryptocurrencies](../cryptocurrency.md) like Monero privately can be difficult. P2P marketplaces like [LocalMonero](https://localmonero.co/), a platform which facilitates trades between people, are one option that can be used. If using an exchange which requires KYC is an acceptable risk for you as long as subsequent transactions can't be traced, a much easier option is to purchase Monero on an exchange like [Kraken](https://kraken.com/), or purchase Bitcoin/Litecoin from a KYC exchange which can then be swapped for Monero. Then, you can withdraw the purchased Monero to your own noncustodial wallet to use privately from that point forward.
 
 If you go this route, make sure to purchase Monero at different times and in different amounts than where you will spend it. If you purchase $5000 of Monero at an exchange and make a $5000 purchase in Monero an hour later, those actions could potentially be correlated by an outside observer regardless of which path the Monero took. Staggering purchases and purchasing larger amounts of Monero in advance to later spend on multiple smaller transactions can avoid this pitfall.
-
-### Criteria
-
-**Please note we are not affiliated with any of the projects we recommend.** In addition to [our standard criteria](../about/criteria.md), we have developed a clear set of requirements to allow us to provide objective recommendations. We suggest you familiarize yourself with this list before choosing to use a project, and conduct your own research to ensure it's the right choice for you.
-
-!!! example "This section is new"
-
-    We are working on establishing defined criteria for every section of our site, and this may be subject to change. If you have any questions about our criteria, please [ask on our forum](https://discuss.privacyguides.net/latest) and don't assume we didn't consider something when making our recommendations if it is not listed here. There are many factors considered and discussed when we recommend a project, and documenting every single one is a work-in-progress.
-
-- Cryptocurrency must provide private/untraceable transactions by default.
 
 ## Additional Considerations
 

@@ -5,7 +5,7 @@ icon: material/vpn
 
 Find a no-logging VPN operator who isn’t out to sell or read your web traffic.
 
-??? danger "VPNs do not provide anonymity"
+!!! danger "VPNs do not provide anonymity"
 
     Using a VPN will **not** keep your browsing habits anonymous, nor will it add additional security to non-secure (HTTP) traffic.
 
@@ -15,11 +15,9 @@ Find a no-logging VPN operator who isn’t out to sell or read your web traffic.
 
     [Download Tor](https://www.torproject.org/){ .md-button .md-button--primary } [Tor Myths & FAQ](advanced/tor-overview.md){ .md-button }
 
-??? question "When are VPNs useful?"
+If you're looking for additional **privacy** from your ISP, on a public Wi-Fi network, or while torrenting files, a VPN may be the solution for you as long as you understand the risks involved.
 
-    If you're looking for additional **privacy** from your ISP, on a public Wi-Fi network, or while torrenting files, a VPN may be the solution for you as long as you understand the risks involved.
-
-    [More Info](basics/vpn-overview.md){ .md-button }
+[Detailed VPN Overview :material-arrow-right-drop-circle:](basics/vpn-overview.md){ .md-button }
 
 ## Recommended Providers
 

@@ -100,10 +100,12 @@ nav:
       - 'cloud.md'
       - 'dns.md'
       - 'email.md'
+      - 'financial-services.md'
       - 'search-engines.md'
       - 'vpn.md'
     - Software:
       - 'calendar.md'
+      - 'cryptocurrency.md'
       - 'data-redaction.md'
       - 'email-clients.md'
       - 'encryption.md'

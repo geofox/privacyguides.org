@@ -84,7 +84,7 @@ For more details about each project, why they were chosen, and additional tips o
 
 <div class="grid cards" markdown>
 
-- ![Aurora Store logo](/assets/img/android/aurora-store.webp){ .twemoji } [Aurora Store (Google Play Client)](android.md#aurora-store)
+- ![Aurora Store logo](assets/img/android/aurora-store.webp){ .twemoji } [Aurora Store (Google Play Client)](android.md#aurora-store)
 - ![Shelter logo](assets/img/android/mini/shelter.svg){ .twemoji } [Shelter (Work Profiles)](android.md#shelter)
 - ![Auditor logo](assets/img/android/auditor.svg#only-light){ .twemoji }![GrapheneOS logo](assets/img/android/auditor-dark.svg#only-dark){ .twemoji } [Auditor (Supported Devices)](android.md#auditor)
 - ![Secure Camera logo](assets/img/android/secure_camera.svg#only-light){ .twemoji }![Secure Camera logo](assets/img/android/secure_camera-dark.svg#only-dark){ .twemoji } [Secure Camera](android.md#secure-camera)
@@ -199,6 +199,31 @@ We [recommend](dns.md#recommended-providers) a number of encrypted DNS servers b
 
 [Learn more :material-arrow-right-drop-circle:](email.md#self-hosting-email)
 
+### Financial Services
+
+#### Payment Masking Services
+
+<div class="grid cards" markdown>
+
+- [Privacy.com](financial-services.md#privacycom-us-free)
+- [MySudo](financial-services.md#mysudo-us-paid)
+- [Revolut](financial-services.md#revolut)
+
+</div>
+
+[Learn more :material-arrow-right-drop-circle:](financial-services.md#payment-masking-services)
+
+#### Online Gift Card Marketplaces
+
+<div class="grid cards" markdown>
+
+- [Cake Pay](financial-services.md#cake-pay)
+- [CoinCards](financial-services.md#coincards)
+
+</div>
+
+[Learn more :material-arrow-right-drop-circle:](financial-services.md#gift-card-marketplaces)
+
 ### Search Engines
 
 <div class="grid cards" markdown>
@@ -246,6 +271,16 @@ We [recommend](dns.md#recommended-providers) a number of encrypted DNS servers b
 </div>
 
 [Learn more :material-arrow-right-drop-circle:](calendar.md)
+
+### Cryptocurrency
+
+<div class="grid cards" markdown>
+
+- [Monero](cryptocurrency.md#monero)
+
+</div>
+
+[Learn more :material-arrow-right-drop-circle:](cryptocurrency.md)
 
 ### Data and Metadata Redaction
 
