@@ -28,20 +28,13 @@ Cash remains the best option for in-person purchases for most people. Gift cards
 
 If you have cryptocurrency, you can purchase gift cards with an online gift card marketplace. Some of these services offer ID verification options for higher limits, but they also allow accounts with just an email address. Basic limits start at $5,000-10,000 a day for basic accounts, and significantly higher limits for ID verified accounts (if offered).
 
-When buying gift cards online, there is usually a slight discount. Prepaid cards are usually sold online at face value or with a fee. If you buy prepaid cards and gift cards with cryptocurrencies, you should strongly prefer to pay with Monero which provides strong privacy, more on this below. Paying for a gift card with a traceable payment method negates the benefits a gift card can provide when purchased with cash or Monero.
-
-Some online marketplaces which accept Monero include:
-
-- [Bidali](https://bidali.com/)
-- [Bitrefill](https://bitrefill.com/)
-- [Cake Pay](https://cakepay.com/)
-- [CoinCards](https://coincards.com/)
+When buying gift cards online, there is usually a slight discount. Prepaid cards are usually sold online at face value or with a fee. If you buy prepaid cards and gift cards with cryptocurrencies, you should strongly prefer to pay with Monero which provides strong privacy, more on this below. Paying for a gift card with a traceable payment method negates the benefits a gift card can provide when purchased with cash or Monero. Some online gift card marketplaces which accept Monero include [Cake Pay](https://cakepay.com/) and [CoinCards](https://coincards.com/).
 
 ## Payment Masking Services
 
 There are also a number of services which provide "virtual debit cards" which you can use with online merchants without revealing your actual banking or billing information in most cases. It's important to note that these financial services are **not** anonymous and are subject to "Know Your Customer" (KYC) laws and may require your ID or other identifying information. These services are primarily useful for protecting you from merchant data breaches, less sophisticated tracking or purchase correlation by marketing agencies, and online data theft; and **not** for making a purchase completely anonymously.
 
-Many banks and credit card providers offer native virtual card functionality, if one that you already use does provide this option, you should use it over the following recommendations. That way you are not trusting multiple parties with your personal information.
+Many banks and credit card providers offer native virtual card functionality. If you use one which provides this option already, you should use it over the following recommendations in most cases. That way you are not trusting multiple parties with your personal information.
 
 ### Privacy.com (US, Free)
 
@@ -111,11 +104,9 @@ For maximum privacy (even with a noncustodial wallet), you should run your own M
 
 #### Privacy Concerns
 
-In 2020, [the IRS published a $625,000 bounty](https://www.forbes.com/sites/kellyphillipserb/2020/09/14/irs-will-pay-up-to-625000-if-you-can-crack-monero-other-privacy-coins/?sh=2e9808a085cc) for breaking Monero's transaction anonymity. They ultimately [paid two companies](https://news.bitcoin.com/chainalysis-and-integra-win-1-25-million-irs-contract-to-break-monero/), Chainalysis and Integra Fec a combined $1.25 million for tools that purport to break Monero's private transaction scheme.
+In August 2021, CipherTrace [announced](https://finance.yahoo.com/news/ciphertrace-announces-enhanced-monero-tracing-160000275.html) enhanced Monero tracing capabilities for government agencies. Public postings show that the US Department of the Treasury's Financial Crimes Enforcement Network [licensed](https://sam.gov/opp/d12cbe9afbb94ca68006d0f006d355ac/view) CipherTrace's "Monero Module" in late 2022.
 
-In August 2021, CipherTrace [announced](https://finance.yahoo.com/news/ciphertrace-announces-enhanced-monero-tracing-160000275.html) enhanced Monero tracing capabilities for government agencies.
-
-Due to the high price of CipherTrace's solution ($16,000/user/year to select government agents) and the unavailability of more information surrounding Chainalysis and/or Integra Fec's solution(s), ==none of these methods of tracing Monero have been independently confirmed.== However, Monero's privacy features have been [called into question](https://web.archive.org/web/20180331203053/https://www.wired.com/story/monero-privacy/) by some security researchers, and a number of severe vulnerabilities have been found and patched in the past, so the claims made by these organizations are not out of the question.
+Monero transaction graph privacy is limited by its relatively small ring signatures, especially against targeted attacks. Monero's privacy features have also been [called into question](https://web.archive.org/web/20180331203053/https://www.wired.com/story/monero-privacy/) by some security researchers, and a number of severe vulnerabilities have been found and patched in the past, so the claims made by organizations like CipherTrace are not out of the question. While it's unlikely that Monero mass surveillance tools exist like they do for Bitcoin and others, it's certain that tracing tools assist with targeted investigations.
 
 Ultimately, Monero is the strongest contender for a privacy-friendly cryptocurrency, but its privacy claims have **not** been definitively proven one way or the other. More time and research is needed to assess whether Monero is resilient enough to attacks to always provide adequate privacy.
 
