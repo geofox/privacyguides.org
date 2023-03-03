@@ -2,7 +2,7 @@
 title: Private Payments
 icon: material/hand-coin
 ---
-Making payments online while retaining your privacy is a difficult challenge. The traditional banking infrastructure is intentionally designed in an anti-privacy manner to enable banks, other companies, and governments to easily trace transactions for a variety of purposes. Many people online view cryptocurrencies as the solution to this problem, but there are still a significant number of privacy concerns with existing cryptocurrencies.
+There's a reason data about your buying habits is considered the holy grail of ad targeting: your purchases can leak a veritable treasure trove of data about you. Unfortunately, the current financial system is anti-privacy by design, enabling banks, other companies, and governments to easily trace transactions. Nevertheless, you have plenty of options when it comes to making payments privately.
 
 ## Cash
 
