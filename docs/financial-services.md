@@ -19,6 +19,9 @@ There are a number of services which provide "virtual debit cards" which you can
 
 !!! recommendation
 
+    ![Privacy.com logo](assets/img/financial-services/privacy_com.svg#only-light){ align=right }
+    ![Privacy.com logo](assets/img/financial-services/privacy_com-dark.svg#only-dark){ align=right }
+
     **Privacy.com**'s free plan allows you to create up to 12 virtual cards per month, set spend limits on those cards, and shut off cards instantly.
 
     [:octicons-home-16: Homepage](https://privacy.com){ .md-button .md-button--primary }
@@ -29,6 +32,9 @@ There are a number of services which provide "virtual debit cards" which you can
 
 !!! recommendation
 
+    ![MySudo logo](assets/img/financial-services/mysudo.svg#only-light){ align=right }
+    ![MySudo logo](assets/img/financial-services/mysudo-dark.svg#only-dark){ align=right }
+
     **MySudo** provides up to 9 virtual cards depending on the plan you purchase. Their paid plans additionally include functionality which may be useful for making purchases privately, such as virtual phone numbers and email addresses, although we typically recommend other [email aliasing providers](email.md) for extensive email aliasing use.
 
     [:octicons-home-16: Homepage](https://mysudo.com/){ .md-button .md-button--primary }
@@ -38,6 +44,9 @@ There are a number of services which provide "virtual debit cards" which you can
 ### Revolut
 
 !!! recommendation
+
+    ![Revolut logo](assets/img/financial-services/revolut.svg#only-light){ align=right }
+    ![Revolut logo](assets/img/financial-services/revolut-dark.svg#only-dark){ align=right }
 
     **Revolut** is an online bank which provides [single-use card functionality](https://www.revolut.com/cards/). In some locations this requires a paid plan.
 
@@ -66,6 +75,8 @@ These services allow you to purchase gift cards for a variety of merchants onlin
 
 !!! recommendation
 
+    ![CakePay logo](assets/img/financial-services/cakepay.svg){ align=right }
+
     **Cake Pay** allows you to purchase gift cards and related products with Monero. Purchases for USA merchants are available in the Cake Wallet mobile app, while the Cake Pay web app includes a broad selection of global merchants.
 
     [:octicons-home-16: Homepage](https://cakepay.com/){ .md-button .md-button--primary }
@@ -75,6 +86,8 @@ These services allow you to purchase gift cards for a variety of merchants onlin
 ### CoinCards
 
 !!! recommendation
+
+    ![CakePay logo](assets/img/financial-services/coincards.svg){ align=right }
 
     **CoinCards** (available in the US, Canada, and UK) allows you to purchase gift cards for a large variety of merchants.
 
